@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2017-05-04 14:33:26
+ * @version $Id$
+ */
+#myMap{
+	height: 900px;
+}
+#result{
+	height: 750px;
+	border: 1px solid black;
+}
+.ui-search{
+	height: 150px;
+	border: 1px solid black;
+	padding-top: 20px;
+	padding-left: 80px;
+}
+body{
+	margin: 20px;
+}
